@@ -1,7 +1,7 @@
 
 ### Bem Vindo ao meu github:space_invader:
 
-<b>Ola me Chamo Matheus sou um desenvolverdor Front end</b>
+<b>Olá me Chamo Matheus sou um desenvolverdor Front end</b>
 <br>
 <br>
  <b>Estou trabalhando com</b><br>
